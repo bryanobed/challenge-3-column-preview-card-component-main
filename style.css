@@ -12,7 +12,6 @@
   --Transparent-white: hsla(0, 0%, 100%, 0.75); /*paragraphs*/
   --Very-light-gray: hsl(0, 0%, 95%); /*background-headings-buttons*/
 }
-
 body {
   font-size: 15px;
   font-family: "Lexend Deca", sans-serif;
@@ -71,7 +70,6 @@ button {
 .luxury-btn {
   color: var(--Very-dark-cyan);
 }
-
 button:hover {
   cursor: pointer;
   border: 2px solid var(--Very-light-gray);
